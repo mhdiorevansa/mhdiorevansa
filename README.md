@@ -23,12 +23,4 @@ I'm **Muhammad Dio Revansa**, a passionate developer with a focus on creating ef
 - 🌟 A proud alumnus of **UIN Sultan Syarif Kasim Riau** with a passion for continuous learning.
 - ✈️ Based in **Pekanbaru**, hailing from **Medan**.
 
----
-
-### GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhdiorevansa&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdiorevansa&layout=compact&theme=radical)
-
----
-
 > 💡 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
