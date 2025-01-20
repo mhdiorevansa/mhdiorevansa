@@ -14,7 +14,7 @@ I'm **Muhammad Dio Revansa**, a passionate developer with a focus on creating ef
 - 📊 **Application Management**: Specialized in **management inventory systems** and **educational platform**.
 
 ## 💬 Let's Connect
-- 🖥 Check out my portfolio: **https://muhammadiorevansa.vercel.app/(https://muhammadiorevansa.vercel.app/)**
+- 🖥 Check out my portfolio: **https://muhammadiorevansa.vercel.app**
 - 💌 Reach me at: **mhdiorevansa098@gmail.com**
 - 🔗 Connect on LinkedIn: **https://www.linkedin.com/in/muhammad-dio-revansa-2ba577222/**
 
