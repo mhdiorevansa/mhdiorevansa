@@ -16,7 +16,7 @@ I'm **Muhammad Dio Revansa**, a passionate developer with a focus on creating ef
 ## 💬 Let's Connect
 - 🖥 Check out my portfolio: **https://muhammadiorevansa.vercel.app/(https://muhammadiorevansa.vercel.app/)**
 - 💌 Reach me at: **mhdiorevansa098@gmail.com**
-- 🔗 Connect on LinkedIn(https://www.linkedin.com/in/muhammad-dio-revansa-2ba577222/)
+- 🔗 Connect on LinkedIn: **https://www.linkedin.com/in/muhammad-dio-revansa-2ba577222/**
 
 ## ⚡ Fun Facts
 - 🎮 Love action-packed movies and immersive games.
