@@ -4,10 +4,10 @@ I'm **Muhammad Dio Revansa**, a passionate developer with a focus on creating ef
 
 ## 🔭 What I'm Working On
 - 🚀 Building innovative **web applications** using **Laravel**, **Next JS**.
-- 🎯 Crafting a modern **website for wedding invitations** with a touch of **Korean elegance**.
+- 🎯 Crafting a modern website.
 
 ## 🌱 What I'm Learning
-- 📘 Delving deeper into **frameworks** and **tools** for full-stack development.
+- 📘 Delving deeper into **frameworks** and **tools** for development.
 
 ## 💼 Services I Offer
 - 📖 **Customized Web Development**: From CRUD systems to unique designs, I've got you covered.
