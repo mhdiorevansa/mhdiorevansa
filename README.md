@@ -4,7 +4,7 @@ I'm **Muhammad Dio Revansa**, a passionate developer with a focus on creating ef
 
 ## 🔭 What I'm Working On
 - 🚀 Building innovative **web applications and mobile application** using **Laravel**, **Next JS**. **Flutter**
-- 🎯 Crafting a modern website.
+- 🎯 Crafting a modern application.
 
 ## 💬 Let's Connect
 - 🖥 Check out my portfolio: **https://muhammadiorevansa.vercel.app**
